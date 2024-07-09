@@ -1,0 +1,1 @@
+Welcome to my PowerBI Learning repo! This repository is to documenting my progress as I learn and master PowerBI, a powerful visualization tool. Here, you will find a collection of various projects, reports, dashboards, and insights that I have created as part of my learning process.
